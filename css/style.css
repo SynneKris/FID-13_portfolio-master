@@ -177,7 +177,7 @@ footer {
 
 .work {
     display: block;
-    width: 420px;
+    width: 450px;
     position: relative;
     text-decoration: none;
     color: #fff;
@@ -196,7 +196,7 @@ footer {
     top: 0;
     left: 0;
     z-index: 5;
-    transform: translate(-420px);
+    transform: translate(-450px);
     transition: transform 0.3s ease-in-out;
 }
 
