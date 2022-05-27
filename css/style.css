@@ -130,30 +130,29 @@ header {
     height: 100vh;
     background-color: burlywood;
     padding: 20px;
-    border: 5px solid #333;
     position: relative;
-    background-image: url('../assets/mountain.jpg');
+    background-image: url('../assets/Synne_photo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .container p {
-    color: #000;
+    color: black;
     padding: 5px;
-    background-color: rgb(255, 255, 255);
+    background-color: #fff;
     position: absolute;
-    top: 200px;
+    top: 240px;
     left: 40px;
     font-size: 44px;
 }
 
 .container span {
-    color: #000;
-    padding: 5px;
     background-color: #fff;
+    color: black;
+    padding: 10px;
     position: absolute;
-    top: 260px;
+    top: 320px;
     left: 40px;
     font-size: 24px;
 }
@@ -238,8 +237,3 @@ footer {
     width: 100%;
 }
 
-div {
-    background-color: aqua;
-    margin: 0;
-    padding: 40px;
-  }
