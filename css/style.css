@@ -128,7 +128,7 @@ header {
 .container {
     width: 100vw;
     height: 100vh;
-    background-color: burlywood;
+    background-color: #D0E7F3;
     padding: 20px;
     position: relative;
     background-image: url('../assets/Synnephoto.jpg');
